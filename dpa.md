@@ -8,6 +8,9 @@
 
 - The parties agree that the customer is the data controller and that SimpleLocalize.io is its data processor in relation to data that is processed in the course of providing the service.
 
+## Purpose and Scope of Processing
+
+SimpleLocalize.io shall process personal data solely for the purpose of providing the translation management and localization services as described in the main service agreement, including account management, customer support, security monitoring, and platform functionality. The processing shall be limited to what is necessary to perform these services.
 
 ## Privacy of your data
 
@@ -21,6 +24,8 @@
 
 5. We don’t sell or rent your site data to any third-parties.
 
+The legal basis for processing personal data under this DPA is the performance of a contract (Article 6(1)(b) of the GDPR) between the Customer and SimpleLocalize.io for the provision of services.
+
 ## Security of your data
 
 We implement and maintain appropriate technical and organizational measures to protect personal data.
@@ -32,13 +37,27 @@ These measures include but are not limited to:
 - Regular security audits and vulnerability assessments.
 - Procedures for regular testing, assessment, and evaluation of the effectiveness of security measures.
 
+## Types of Personal Data and Categories of Data Subjects
+
+The personal data that may be processed by SimpleLocalize.io in the course of providing the services includes, but is not limited to:
+
+- Email addresses
+- IP addresses
+- social sign-up identifiers (GitHub, Google, Microsoft)
+- Project metadata and activity logs
+
+The categories of data subjects may include:
+
+- Customer employees or collaborators using the SimpleLocalize.io service
+- Clients of the Customer, where such data is inputted by the Customer into the SimpleLocalize.io
+
 
 ## Processor’s obligations with respect to the controller
 
 
 1. We as humans can access your data to help you with support requests you make and to maintain and safeguard SimpleLocalize.io to ensure the security of your data and the service as a whole. SimpleLocalize.io shall ensure that all SimpleLocalize personnel required to access the data are trained in GDPR and data privacy, informed of the confidential nature of the data and comply with the obligations sets out in this agreement.
 
-2. SimpleLocalize.io shall implement and maintain appropriate technical and organizational security measures designed to protect the data against unauthorized or unlawful processing and against accidental loss, damage, theft, alteration or disclosure. These measures shall be appropriate to the harm which might result from any unauthorised or unlawful processing, accidental loss, destruction, damage or theft of the data and having regard to the nature of the data which is to be protected.
+2. SimpleLocalize.io shall implement and maintain appropriate technical and organizational security measures designed to protect the data against unauthorized or unlawful processing and against accidental loss, damage, theft, alteration or disclosure. These measures shall be appropriate to the harm which might result from any unauthorized or unlawful processing, accidental loss, destruction, damage or theft of the data and having regard to the nature of the data which is to be protected.
 
 3. We do work with sub-processors. Any such sub-processors will be permitted to process data only to deliver the services SimpleLocalize.io has retained them to provide, and they shall be prohibited from using data for any other purpose. SimpleLocalize.io shall notify the controller when modifying the list of sub-processors using our in-app notifications, email and/or blog. The controller is able to legitimately object and may terminate the agreement.
 
@@ -52,7 +71,7 @@ These measures include but are not limited to:
 
 8. SimpleLocalize.io shall assist the controller in responding to data subjects’ requests to exercise their rights, including but not limited to access, rectification, erasure, and data portability. SimpleLocalize.io will forward such requests to the controller without undue delay.
 
-9. SimpleLocalize.io shall ensure that any sub-processor engaged to process data on behalf of the controller adheres to the same data security and confidentiality obligations as set forth in this agreement. (added: 2024-11-21)
+9. SimpleLocalize.io shall ensure that any sub-processor engaged to process data on behalf of the controller adheres to the same data security and confidentiality obligations as set forth in this agreement.
 
 10. SimpleLocalize.io remains fully liable to the controller for the performance of its obligations under this agreement, even in cases where sub-processors carry out those obligations.
 
@@ -60,9 +79,11 @@ These measures include but are not limited to:
 
 12. SimpleLocalize.io shall make available to the controller all information necessary to demonstrate compliance with the obligations set forth in this agreement and GDPR. This includes, upon request, documentation of technical and organizational measures, records of processing activities, and details of sub-processors engaged.
 
-13. SimpleLocalize.io shall obtain prior consent from the controller before engaging any new sub-processors. This consent may be general or specific, as agreed between the parties. SimpleLocalize.io shall notify the controller of any intended changes to the list of sub-processors by publishing a notice on its publicly available Changelog (/changelog) or Blog (/blog) at least 14 days prior to the changes taking effect. The controller may object to the engagement of a new sub-processor within this notice period by providing written notification. If the controller does not object within the specified timeframe, consent shall be deemed granted.
+13. SimpleLocalize.io shall obtain prior consent from the controller before engaging any new sub-processors. This consent may be general or specific, as agreed between the parties. SimpleLocalize.io shall notify the controller of any intended changes to the list of sub-processors by publishing a notice on its publicly available [Changelog](/changelog) or [Blog](/blog) at least 14 days prior to the changes taking effect. The controller may object to the engagement of a new sub-processor within this notice period by providing written notification. If the controller does not object within the specified timeframe, consent shall be deemed granted.
 
-14. SimpleLocalize.io shall allow and contribute to audits or inspections conducted by the controller or a designated third-party auditor to verify compliance with this agreement and GDPR. Such audits shall be subject to:
+14. SimpleLocalize.io shall, taking into account the nature of processing and the information available to it, assist the Customer in ensuring compliance with the obligations pursuant to Articles 32 to 36 of the GDPR, including obligations related to data protection impact assessments (DPIA) and prior consultations with supervisory authorities.
+
+15. SimpleLocalize.io shall allow and contribute to audits or inspections conducted by the controller or a designated third-party auditor to verify compliance with this agreement and GDPR. Such audits shall be subject to:
 
     - Prior written notice of at least 90 days.
     - A mutually agreed scope and methodology that ensures minimal disruption to SimpleLocalize.io’s operations.
