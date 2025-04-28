@@ -1,6 +1,6 @@
 ## SimpleLocalize Plugin for IntelliJ
 
-Developer means "SimpleLocalize Plugin", operated by "Jakub Pomykała Software" represented by Jakub Pomykała.
+"Developer" means sole proprietor "Jakub Pomykała Software" represented by Jakub Pomykała
 
 JetBrains means JetBrains s.r.o. with its registered office at Na Hřebenech II 1718/10, Prague, 14000, Czech Republic, registered with the Commercial Register kept by the Municipal Court of Prague, Section C, file 86211, ID.Nr.: 265 02 275.
 JetBrains Affiliate means the subsidiary and/or any associated companies of JetBrains.
