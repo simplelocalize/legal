@@ -2,7 +2,7 @@
 
 - "You" or "customer" refers to the company or organization that signs up to use the SimpleLocalize.io
 
-- In this Data Processing Agreement ("DPA"), "Data Protection Legislation" means the General Data Protection Regulation (Regulation (EU) 2016/279), and all other applicable laws relating to processing of data and privacy that may exist in any relevant jurisdiction.
+- In this Data Processing Agreement ("DPA"), "Data Protection Legislation" means the General Data Protection Regulation (Regulation (EU) 2016/679), and all other applicable laws relating to processing of data and privacy that may exist in any relevant jurisdiction.
 
 - "data controller", "data processor", "data subject", "personal data" and "processing" shall be interpreted in accordance with applicable Data Protection Legislation.
 
@@ -49,8 +49,7 @@ The personal data that may be processed by SimpleLocalize.io in the course of pr
 The categories of data subjects may include:
 
 - Customer employees or collaborators using the SimpleLocalize.io service
-- Clients of the Customer, where such data is inputted by the Customer into the SimpleLocalize.io
-
+- End users or clients of the Customer, where such data is inputted by the Customer into the SimpleLocalize.io
 
 ## Processor’s obligations with respect to the controller
 
@@ -120,12 +119,103 @@ No. You are not required to notify us or any third party upon accepting our DPA,
 
 If you have any questions or concerns regarding your information and personal data, please contact us at: contact@simplelocalize.io.
 
+## Annex 1: Technical and Organizational Measures
 
-## Changes to this DPA
+## 1. Pseudonymization and Encryption (Art. 32(1)(a) GDPR)
+* Data in transit is protected with industry-standard TLS encryption.
+* Logs and analytics use pseudonymized identifiers where possible.
 
-We may update this DPA from time to time.
+## 2. Confidentiality (Art. 32(1)(b) GDPR)
+
+**Access Control**
+* Access to systems and data is granted only to authorized personnel based on job roles.
+* Multifactor authentication (MFA) is enforced for administrative and support accounts.
+* User access rights are reviewed regularly and revoked immediately upon role change or termination.
+* Remote access to systems is secured through encrypted VPN connections.
+
+**Physical Security**
+* Data is hosted exclusively in secure EU-based data centers operated by certified cloud providers (AWS EU regions).
+* Data centers are ISO 27001, SOC 1, and SOC 2 certified.
+* Physical access to servers is restricted to authorized personnel of the data center operators and is monitored 24/7.
+
+**Data Confidentiality**
+* All personnel with access to customer data are bound by confidentiality agreements.
+* Employees receive GDPR and information security training annually.
+* Policies prohibit the use of personal data for any purpose other than service provision.
+
+**Personnel Security**
+* All employees with system or data access undergo background verification in accordance with local laws.
+* Information security policies are part of onboarding and reviewed annually.
+
+## 3. Integrity (Art. 32(1)(b) GDPR)
+
+**Data Transmission Control**
+* All data in transit between customers and SimpleLocalize.io services is encrypted using TLS 1.2 or higher.
+* Internal communications between servers and services are also encrypted.
+
+**Data Integrity Control**
+* Input validation, checksums, and logging are used to detect unauthorized data modification.
+* Versioning and audit trails are maintained for key data operations.
+
+## 4. Availability and Resilience (Art. 32(1)(b/c) GDPR)
+
+**Data Backup and Recovery**
+* Encrypted backups are created daily and stored in geographically redundant EU locations.
+* Backups are tested regularly for integrity and recoverability.
+
+**System Availability**
+* The platform is designed for high availability, using load balancing and failover systems.
+* Regular monitoring ensures uptime and early detection of incidents.
+
+**Disaster Recovery**
+* Documented disaster recovery plans define procedures to restore operations within acceptable timeframes.
+* Recovery Point Objective (RPO): ≤72 hours; Recovery Time Objective (RTO): ≤48 hours.
+
+
+## 5. Procedures for Regular Testing, Assessment, and Evaluation (Art. 32(1)(d) GDPR)
+
+* Automated vulnerability scans are performed at least quarterly.
+* Security incidents are documented, reviewed, and analyzed to improve controls.
+
+## 6. Data Protection by Design and by Default (Art. 25 GDPR)
+
+* Privacy impact assessments are conducted when implementing new features.
+* Default settings minimize personal data collection and exposure.
+* Role-based access ensures only necessary data is visible to users.
+
+## 7. Incident Response and Breach Notification
+
+* A documented incident response plan defines detection, reporting, and escalation processes.
+* In case of a personal data breach, SimpleLocalize.io will notify affected controllers without undue delay and within 48 hours of becoming aware of the breach.
+* Root cause analysis is performed after each incident to prevent recurrence.
+
+## 8. Sub-Processor Management
+
+* Sub-processor security certifications (e.g., ISO 27001, SOC 2) are reviewed periodically.
+* [A current list of sub-processors](/privacy-policy/) is maintained and communicated in accordance with the DPA via [changelog (https://simplelocalize.io/changelog/)](/changelog/) and/or [blog posts (https://simplelocalize.io/blog/)](/blog/).
+
+## 9. Data Deletion and Return Procedures
+
+* Upon termination of services or upon controller request, all personal data is securely deleted from active systems within 30 days and from backups within 180 days.
+* Secure deletion follows NIST SP 800-88 standards.
+* Written confirmation of deletion is available upon request.
+
+## 10. Compliance and Documentation
+
+* Records of processing activities (Art. 30 GDPR) are maintained.
+* Documentation of TOMs and updates are available to controllers upon request.
+* Security and privacy documentation are reviewed annually and updated as needed.
+
+## 11. Certifications and Standards
+
+* Hosting infrastructure complies with ISO 27001, ISO 27017, and SOC 2 Type II.
+* Internal practices align with OWASP security principles and CIS Benchmarks.
+* SimpleLocalize.io conducts continuous improvement of its security posture.
+
+## Changes to these documents
+
+We may update this DPA and annexes from time to time.
 We encourage you to periodically review this page for the latest information on our privacy practices.
-
 
 ## Changelog
 
