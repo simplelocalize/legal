@@ -1,3 +1,10 @@
+---
+title: Data Processing Agreement
+modified: 2025-11-12
+author: "Jakub Pomykała"
+excerpt: "Explore our Data Processing Agreement (DPA) page to understand how we safeguard your data. Learn about our commitment to data privacy and compliance with regulations."
+---
+
 ## Definitions
 
 - "You" or "customer" refers to the company or organization that signs up to use the SimpleLocalize.io
@@ -84,7 +91,7 @@ The categories of data subjects may include:
 
 15. SimpleLocalize.io shall allow and contribute to audits or inspections conducted by the controller or a designated third-party auditor to verify compliance with this agreement and GDPR. Such audits shall be subject to:
 
-    - Prior written notice of at least 90 days.
+    - Prior written notice of at least 30 days.
     - A mutually agreed scope and methodology that ensures minimal disruption to SimpleLocalize.io’s operations.
     - Adequate confidentiality agreements to protect SimpleLocalize.io’s systems and the data of other customers.
     - Where direct system access is not feasible or necessary, SimpleLocalize.io may provide requested documentation, records, and other evidence demonstrating compliance.
